@@ -1,6 +1,6 @@
 <h2> Hello Awesome human! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src="https://raw.githubusercontent.com/alsaheem/alsaheem/master/adebisi-ayomide-picture.png" width='200"'>
+<img align='right' src="https://raw.githubusercontent.com/alsaheem/alsaheem/main/adebisi-ayomide-picture.png" width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-MichaelMekuleyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adebisi-ayomide//)](https://www.linkedin.com/in/adebisi-ayomide//) [![Gmail Badge](https://img.shields.io/badge/-adebisiayomide07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adebisiayomide07@gmail.com)](mailto:adebisiayomide07@gmail.com)
 
