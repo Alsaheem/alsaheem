@@ -2,7 +2,7 @@
 
 <img align='right' src="https://raw.githubusercontent.com/alsaheem/alsaheem/main/adebisi-ayomide-picture.png" width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-MichaelMekuleyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adebisi-ayomide//)](https://www.linkedin.com/in/adebisi-ayomide//) [![Gmail Badge](https://img.shields.io/badge/-adebisiayomide07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adebisiayomide07@gmail.com)](mailto:adebisiayomide07@gmail.com)
+[![Linkedin Badge](https://www.linkedin.com/in/adebisi-ayomide//)](https://www.linkedin.com/in/adebisi-ayomide//) [![Gmail Badge](https://img.shields.io/badge/-adebisiayomide07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adebisiayomide07@gmail.com)](mailto:adebisiayomide07@gmail.com)
 
 - Hello There, I am Ayomide Adebisi. Results-driven Senior Site Reliability, DevOps, and MLOps Engineer with extensive experience in architecting, automating, and scaling robust solutions across multi-cloud environments including AWS, Azure, and GCP. Led end-to-end platform migrations and infrastructure as code (IaC) transformations, optimizing performance, security, and scalability. Recognized for high-impact contributions such as re-architecting platforms that handle over 100,000 monthly requests and achieving substantial cloud cost reductions.  
 
