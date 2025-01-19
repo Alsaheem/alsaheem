@@ -48,7 +48,7 @@
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/04ca2519-9167-4197-89a6-841e80f8d6e5)
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/ddd0daaa-4ea3-4da7-906b-dab4875ae535)
 - [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/255f91c8-effb-4cfc-9ab2-633e4daf13d4)
-- [HashiCorp Certified: Terraform Associate (003)(https://www.credly.com/badges/c8399d32-fdf6-475c-a5b2-ad8b11a50907)
+- [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/c8399d32-fdf6-475c-a5b2-ad8b11a50907)
 - [GCP - Associate Cloud Engineer Certification](https://www.credly.com/badges/3f80f9ba-022a-43d9-a8ad-eb2fdbb052d7)
 
 ---
