@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <h2> Hello Awesome human! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src="https://raw.githubusercontent.com/alsaheem/alsaheem/master/adebisi-ayomide-picture.png" width='200"'>
