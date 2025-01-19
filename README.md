@@ -20,6 +20,7 @@
 
 - Role: DevOps / Site Reliability Engineer
 - Hobbies: Mentoring and Making cocktails
+- Youtube: https://www.youtube.com/channel/UCYG-Zm7EW5IRGhtfZTuqGrA
 
 ---
 
