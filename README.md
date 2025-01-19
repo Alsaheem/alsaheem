@@ -16,8 +16,9 @@
 ## Details
 - Name: Ayomide Adebisi
 - Pronouns: He/Him :man:
-<!-- - Presentations -->
-- Role: DevOps Engineer/SRE
+
+
+- Role: DevOps / Site Reliability Engineer
 - Hobbies: Mentoring and Making cocktails
 
 ---
